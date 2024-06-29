@@ -1,0 +1,34 @@
+/* HeadingDetails.module.css */
+
+.whiteBackground {
+    background-color: #ffffff; /* White background */
+  }
+  
+  .passion {
+    color: #8064a2; /* Passion color */
+  }
+  
+  .hobby {
+    color: #0096c8; /* Hobby color */
+  }
+  
+  .signInJoinHeader {
+    font-size: 24px; /* Adjust font size for Sign In / Join In header */
+  }
+  
+  .signInJoinText {
+    cursor: pointer; /* Make text clickable */
+  }
+  
+  .active {
+    color: #8064a2; /* Active text color */
+  }
+  
+  .section {
+    display: none; /* Hide sections by default */
+  }
+  
+  .activeSection {
+    display: block; /* Show active section */
+  }
+  
